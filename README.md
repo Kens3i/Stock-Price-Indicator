@@ -1,5 +1,5 @@
 # Stock-Price-Indicator
 Using Python And ML, I Created A Live Sector Wise Stock Indiactor Web App Which Refreshes Itself Every 24 Hour
 
-Wroking Website:
+Working Website:
 http://stockpriceindicator.herokuapp.com/
