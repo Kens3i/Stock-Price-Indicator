@@ -11,7 +11,9 @@ import base64
 import matplotlib.pyplot as plt
 import yfinance as yf
 
-st.title('Sectorwise Stock Price App')
+st.beta_set_page_config(page_title="Stock Price Indicator",page_icon="📈")
+
+st.title('Sector-Wise Stock Price App')
 
 st.markdown("""
 This app retrieves the list of the **S&P 500** (from Wikipedia) and its corresponding **stock closing price** (year-to-date)!
