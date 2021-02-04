@@ -11,7 +11,7 @@ import base64
 import matplotlib.pyplot as plt
 import yfinance as yf
 
-st.beta_set_page_config(page_title="Stock Price Indicator",page_icon="📈")
+st.set_page_config(page_title="Stock Price Indicator",page_icon="📈")
 
 st.title('Sector-Wise Stock Price App')
 
